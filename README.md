@@ -1,7 +1,7 @@
 Hi 👋 My name is Daniil Ozhogin
 ===============================
 
-Frontend Developer
+React Frontend Developer
 ------------------
 
 * 🌍  I'm based in Saint-Petersburg
