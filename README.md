@@ -5,7 +5,6 @@ React Frontend Developer
 ------------------
 
 * 🌍  I'm based in Saint-Petersburg
-* ✉️  You can contact me at [danozh.b@gmail.com](mailto:danozh.b@gmail.com)
 
 ### Skills
 
