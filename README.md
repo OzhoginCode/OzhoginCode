@@ -1,4 +1,4 @@
-Hi 👋 My name is Daniil Ozhogin
+Hi 👋 My name is Daniil
 ===============================
 
 React Frontend Developer
